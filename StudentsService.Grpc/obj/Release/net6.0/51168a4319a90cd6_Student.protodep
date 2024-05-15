@@ -1,0 +1,3 @@
+obj\Release\net6.0\Protos\v1/Student.cs \
+obj\Release\net6.0\Protos\v1/StudentGrpc.cs: C:/Users/shaneh.m.LORCHCO/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/empty.proto\
+ Protos/v1/Student.proto
